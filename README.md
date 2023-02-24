@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulsuryanshu
-- 👀 I’m interested in ...c,c++
+- 👀 I’m interested in ...c,c++ as well as JAVA and Python...
 - 🌱 I’m currently learning ...c
 - 💞️ I’m looking to collaborate on ...programming
 - 📫 How to reach me ...suryanshupaul1990@gmail.com
