@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)
+![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 <h1 align="center">Hi 👋, I'm Suryanshu Paul</h1>
 <h3 align="center">A passionate technologist from India</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="coading" />
@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **JAVA , Web Development**
 - 👨‍💻 All of my projects
 are available at
- [suryanshu-paul-2aa003253/](https://www.linkedin.com/in/suryanshu-paul-2aa003253/)
+ [suryanshu-paul-2aa003253/]https://www.linkedin.com/in/suryanshu-paul-2aa003253/
 - 💬 Ask me about **C , C++** 
 - 📫 How to reach me
 **suryanshupaul1990@gmail.com**
@@ -37,7 +37,7 @@ are available at
       width="40"
   /></a>
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/suryanshu-paul-2aa003253/"
+    href="https://www.linkedin.com/in/suryanshu-paul-2aa003253/"
     target="blank"
     ><img
       align="center"
@@ -47,7 +47,7 @@ are available at
       width="40"
   /></a>
   <a
-    href="https://fb.com/https://www.facebook.com/suryanshu.paul"
+    href="https://www.facebook.com/suryanshu.paul"
     target="blank"
     ><img
       align="center"
@@ -57,12 +57,12 @@ are available at
       width="40"
   /></a>
   <a
-    href="https://instagram.com/https://www.instagram.com/suryanshupaul18/"
+    href="https://www.instagram.com/suryanshupaul18/?hl=en"
     target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="https://www.instagram.com/suryanshupaul18/"
+      alt="https://www.instagram.com/suryanshupaul18/?hl=en"
       height="30"
       width="40"
   /></a>
