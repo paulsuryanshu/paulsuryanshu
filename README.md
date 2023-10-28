@@ -22,7 +22,7 @@
 - 👨‍💻 All of my projects
 are available at
  [suryanshu-paul-2aa003253/]https://www.linkedin.com/in/suryanshu-paul-2aa003253/
-- 💬 Ask me about **C , C++** 
+- 💬 Ask me about **DSA , PYTHON , ML , AI...** 
 - 📫 How to reach me
 **suryanshupaul1990@gmail.com**
 
